@@ -1,0 +1,12 @@
+# Site settings
+title: My GitHub Pages Site
+description: This is a simple GitHub Pages site using a Jekyll theme.
+url: "https://robviera.github.io"  # Replace <username> with your GitHub username
+
+# Build settings
+theme: jekyll-theme-slate  # Replace with your desired theme
+
+# Optional settings
+markdown: kramdown
+kramdown:
+  input: GFM
