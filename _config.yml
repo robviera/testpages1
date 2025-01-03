@@ -4,8 +4,8 @@ description: This is a simple GitHub Pages site using a Jekyll theme.
 url: "https://robviera.github.io"  # Replace <username> with your GitHub username
 
 # Build settings
-# theme: dinky-theme-slate  # Replace with your desired theme
-theme: -theme-slate  # Replace with your desired theme
+# theme: jekyll-theme-slate  # Replace with your desired theme
+theme: jekyll-theme-dinky  # Replace with your desired theme
 
 
 # Optional settings
